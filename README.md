@@ -1,4 +1,4 @@
-# A collection of seed oil free recipes, generated using GPT4.
+# Seed oil free recipes, generated using GPT-4.
 
 Current dietary patterns often favor omega-6 fatty acids, found in high amounts in seed and vegetable oils and soy. These can promote inflammation when consumed in excess relative to omega-3 fatty acids. This project focuses on generating recipes that aim to rebalance this skewed ratio by promoting foods rich in omega-3 fatty acids, which are known for their anti-inflammatory properties.
 
